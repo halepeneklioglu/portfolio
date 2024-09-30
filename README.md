@@ -38,29 +38,18 @@ With a proven ability to communicate complex data insights clearly, I aim to bri
 
 ### Certificates
 Miuul:
-
-Python Programming for Data Science
-
-Introduction to Data Science and AI
-
-Feature Engineering
-
-Machine Learning
-
-Measurement Problems
-
-Recommendation Systems
-
-CRM Analytics
-
-Querying with MS SQL
+- Python Programming for Data Science
+- Introduction to Data Science and AI
+- Feature Engineering
+- Machine Learning
+- Measurement Problems
+- Recommendation Systems
+- CRM Analytics
+- Querying with MS SQL
 
 Kaggle:
 
-Intro to Programming
-
-Intro to Machine Learning
-
-Intro to SQL
-
-Data Cleaning
+- Intro to Programming
+- Intro to Machine Learning
+- Intro to SQL
+- Data Cleaning

@@ -9,32 +9,58 @@ With a proven ability to communicate complex data insights clearly, I aim to bri
 
 ### Projects
 1) Rule Based Persona Classification
+   
 2) Customer Segmentation with RFM with FLO Dataset
-3) Customer Lifetime Value Prediction with FLO Dataset. 
+   
+3) Customer Lifetime Value Prediction with FLO Dataset
+    
 4) Customer Segmentation with RFM with Online-Retail Dataset
+   
 5) Customer Lifetime Prediction with Online-Retail Dataset
+    
 6) ARL Recommender
+    
 7) Hybrid Recommender
+    
 8) Rating Product and Sorting Reviews with Amazon Dataset
+    
 9) A/B Testing
+    
 10) Customer Churn Feature Engineering
+    
 11) Diabetes Prediction with Machine Learning
+    
 12) Salary Prediction with Machine Learning
+    
 13) House Price Prediction with Machine Learning
+    
 14) Time Series Project on Store Item Demand Forecasting
 
 ### Certificates
 Miuul:
+
 Python Programming for Data Science
+
 Introduction to Data Science and AI
+
 Feature Engineering
+
 Machine Learning
+
 Measurement Problems
+
 Recommendation Systems
+
 CRM Analytics
+
 Querying with MS SQL
+
 Kaggle:
+
 Intro to Programming
+
 Intro to Machine Learning
+
 Intro to SQL
+
 Data Cleaning

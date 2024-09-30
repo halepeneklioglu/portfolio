@@ -23,7 +23,7 @@ With a proven ability to communicate complex data insights clearly, I aim to bri
 13) House Price Prediction with Machine Learning
 14) Time Series Project on Store Item Demand Forecasting
 
-###Certificates
+### Certificates
 Miuul:
 Python Programming for Data Science
 Introduction to Data Science and AI

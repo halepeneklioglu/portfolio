@@ -10,7 +10,7 @@ With a proven ability to communicate complex data insights clearly, I aim to bri
 ### Projects
 1) Rule Based Persona Classification
    
-2) Customer Segmentation with RFM with FLO Dataset: [Link] (https://github.com/halepeneklioglu/portfolio/blob/main/FLO_RFM.py)
+2) Customer Segmentation with RFM with FLO Dataset: [Link] (portfolio/FLO_RFM.py)
    
 3) Customer Lifetime Value Prediction with FLO Dataset
     

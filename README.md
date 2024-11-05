@@ -30,14 +30,16 @@ With a proven ability to communicate complex data insights clearly, I aim to bri
     
 11) Diabetes Prediction with Machine Learning
     
-12) Salary Prediction with Machine Learning
+12) Customer Churn Prediction with Machine Learning
     
 13) House Price Prediction with Machine Learning
     
-14) Time Series Project on Store Item Demand Forecasting
+14) Customer Segmentation using Unsupervised Learning (K-Means, Hierarchical Cluster)
+    
+15) Scoutium Talent Classification with Machine Learning  
 
 ### Certificates
-Miuul:
+Miuul Data Scientist Bootcamp (Duration: 4 months):
 - Python Programming for Data Science
 - Introduction to Data Science and AI
 - Feature Engineering
